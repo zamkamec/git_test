@@ -1,0 +1,1 @@
+This is Zamkamec's first git project.
